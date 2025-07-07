@@ -1,1 +1,3 @@
 partner list
+bootdotdev
+the startup
